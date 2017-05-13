@@ -1,7 +1,7 @@
 go-tcp-example
 ==============
 
-#### usage:
+## usage:
 ```
 $ go run main.go -h
 simple tcp server and client written in golang

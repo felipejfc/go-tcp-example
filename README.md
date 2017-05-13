@@ -1,4 +1,4 @@
-go-tcp-example
+go-go-tcp-example
 ==============
 
 ## usage:
@@ -7,7 +7,7 @@ $ go run main.go -h
 simple tcp server and client written in golang
 
 Usage:
-  tcp-example [command]
+  go-tcp-example [command]
 
 Available Commands:
   client      init a client
@@ -15,7 +15,7 @@ Available Commands:
   server      init a server
 
 Flags:
-  -h, --help   help for tcp-example
+  -h, --help   help for go-tcp-example
 
-Use "tcp-example [command] --help" for more information about a command.
+Use "go-tcp-example [command] --help" for more information about a command.
 ```

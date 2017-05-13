@@ -12,7 +12,7 @@ var port int
 
 // RootCmd represents the base command when called without any subcommands
 var RootCmd = &cobra.Command{
-	Use:   "tcp-example",
+	Use:   "go-tcp-example",
 	Short: "simple tcp server and client written in golang",
 	Long:  `simple tcp server and client written in golang`,
 }
